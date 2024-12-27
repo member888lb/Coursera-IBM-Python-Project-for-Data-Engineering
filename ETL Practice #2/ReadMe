@@ -1,2 +1,6 @@
+ETL Lab Practice #2
 Datasette of used car prices using headers "Model", "Year", "Price" and "Fuel" from 3 different source file formats (.csv, .json and .xml).
-
+Code File: etl_practice.py
+Source Zip: datasource.zip
+Source Files Unzipped: used_car_prices1.csv, used_car_prices1.json, used_car_prices1.xml, used_car_prices2.csv, used_car_prices2.json, used_car_prices1.xml, used_car_prices3.csv. used_car_prices3.json, used_car_prices3.xml
+Output File: log_file (practice).txt
