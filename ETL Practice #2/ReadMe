@@ -1,1 +1,2 @@
+Datasette of used car prices using headers "Model", "Year", "Price" and "Fuel" from 3 different source file formats (.csv, .json and .xml).
 
