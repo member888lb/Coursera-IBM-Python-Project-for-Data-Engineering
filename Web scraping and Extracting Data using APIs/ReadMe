@@ -1,1 +1,16 @@
+Scenario
+Consider that you have been hired by a Multiplex management organization to extract the information of the top 50 movies with the best average rating from the web link
+below.
+https://en.everybodywiki.com/100_Most_Highly-Ranked_Films
+The information required is Average Rank, Film, and Year.
+Instructions:
+    1. Write a Python script titled webscraping_movies.py that extracts above required information and save to a CSV file and to a database with a table.
+    2. The CSV name for saving the record: top_50_films.csv
+    3. The Database name: Movies.db   
+    4. The Table name for storing the record: Top_50
+    5. Additionally, since only the top 50 results are required, set the loop counter initialized to 0. 
+
+
+
+
 
