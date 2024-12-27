@@ -1,1 +1,6 @@
-
+ETL Lab Practice #1
+Datasette of individual's name, height and weight from 3 different source file formats (.csv, .json and .xml).
+Code File: etl_code.py
+Source Zip: source.zip
+Source Files Unzipped: source1.json, source2.json, source3.json, source1.csv, source2.csv, source3.csv
+Output File: log_file.txt
