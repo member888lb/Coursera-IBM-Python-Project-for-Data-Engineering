@@ -4,7 +4,9 @@ Objectives
 3. Run basic "queries" on the database to access the information
 
 Scenario
-Consider a dataset of employee records that is available with an HR team in a CSV file. As a Data Engineer, you are required to create the database called STAFF and load the contents of the CSV file as a table called INSTRUCTORS. The headers (attribute details) of the available data are:
+Consider a dataset of employee records that is available with an HR team in a CSV file. 
+As a Data Engineer, you are required to create the database called STAFF and load the contents of the CSV file
+as a table called INSTRUCTORS. The headers (attribute details) of the available data are:
 
 Header	Description
 ID	Employee ID
