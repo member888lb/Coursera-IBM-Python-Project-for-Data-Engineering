@@ -12,9 +12,7 @@ DEP_NAME	Department Name
 MANAGER_ID	Manager ID
 LOC_ID	Location ID
 
-Populate the Departments table with the data available in the CSV file which can be downloaded from the link below using wget.
-
-.../Departments.csv
+Populate the Departments table with the data available in the departments CSV file 
 
 Append the Departments table with the following information.
 
