@@ -1,0 +1,42 @@
+Objectives
+1. Create a database using Python
+2. Load the data from a CSV file as a table to the database
+3. Run basic "queries" on the database to access the information
+
+Scenario
+Consider a dataset of employee records that is available with an HR team in a CSV file.  In the same database STAFF, create another table called Departments. The attributes of the table are as shown below.
+
+Header	Description
+DEPT_ID	Department ID
+DEP_NAME	Department Name
+MANAGER_ID	Manager ID
+LOC_ID	Location ID
+
+Populate the Departments table with the data available in the CSV file which can be downloaded from the link below using wget.
+
+.../Departments.csv
+
+Append the Departments table with the following information.
+
+Attribute	Value
+DEPT_ID	9
+DEP_NAME	Quality Assurance
+MANAGER_ID	30010
+LOC_ID	L0010
+
+
+Tasks:
+1. Connect to the SQLite3 service
+2. Define table parameters
+3. Read the CSV data
+4. Load the CSV to the database
+5. Close Connection (after query and append script)
+
+Query:
+1. View all entries
+2. View only the department names
+3. Count the total entries
+
+Append:
+1. Define data to be appended
+2. Append data to the table
