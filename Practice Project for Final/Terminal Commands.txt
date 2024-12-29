@@ -1,0 +1,18 @@
+Terminal: 
+
+python3.11 -m pip install <library_name>
+
+python3.11 -m pip install pandas
+python3.11 -m pip install numpy
+python3.11 -m pip install bs4
+
+
+wget https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)
+
+
+CODE EXECUTION (AT END)
+
+python3.11 etl_project_gdp.py
+
+
+
