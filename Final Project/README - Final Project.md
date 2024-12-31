@@ -1,4 +1,5 @@
 # Coursera-IBM-Python-Project-for-Data-Engineering
+Final Project: Acquiring and processing information on world's largest banks
 Project Scenario
 
 A multi-national firm has hired you as a data engineer. Your job is to access and process data as per requirements.
