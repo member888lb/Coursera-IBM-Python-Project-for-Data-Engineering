@@ -1,0 +1,15 @@
+Python Comparison: 
+pep8
+Pylint
+PyChecker
+PyFlakes
+Flake8
+autopep8
+Bandit
+Prospector
+Pylama
+Pyroma
+Black
+Mypy
+Radon
+Mccabe
